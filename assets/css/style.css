@@ -742,8 +742,10 @@ main.drake-main {
 }
 .hero-section .hero-content h1 {
     font-size: 78px;
+    font-size: 58px;
     letter-spacing: -0.2px;
     line-height: 90px;
+    line-height: 70px;
     margin-bottom: 43px;
     font-weight: 300;
 }
